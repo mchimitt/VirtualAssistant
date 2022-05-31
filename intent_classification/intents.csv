@@ -1,0 +1,18 @@
+text,intent
+ ,none
+dfsdf,none
+ooga booga,none
+wow,none
+potato,none
+asdfndkjfas,none
+how are you?,greeting
+hello,greeting
+hi there,greeting
+hello how are you doing,greeting
+see you later,leaving
+talk to you later,leaving
+hows the weather,weather
+whats the temperature,weather
+whats the weather today?,weather
+play some music,music
+

@@ -1,0 +1,23 @@
+Intent Functions:
+Math (wolfram alpha potentially)
+Wikipedia Searching
+Note Taking
+Music (probably youtube music)
+
+Small Stuff:
+- Jokes
+- Time
+
+
+Make a List of Pip Installs
+pip install:
+    - pyaudio - if errors, use this link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+    - SpeechRecognition
+    - pyttsx3
+    - geopy
+    - geocoder
+    - pandas
+    - scikit-learn
+
+API's:
+    - Make a free weatherbit account for the API key
